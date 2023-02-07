@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiselleDalazen
-- 👀 I’m interested in Agile and management. Certified in agile processes and Scrum.
+- 👀 I’m interested in Agile and system development. Certified in agile processes and Scrum.
 - 🌱 I’m currently learning System Development and Analysis at FIAP.
 - 💞️ I’m looking to collaborate on teamworking.
 - 📫 How to reach me giselledias.joinville@gmail.com.
